@@ -1,2 +1,2 @@
 # RepoAngel
-Repositorio ejerciccio
+Repositorio ejercicio
